@@ -8,7 +8,18 @@ function CadastroCategoria(){
             <h1>Cadastro de Categoria</h1>
 
 
-            
+            <form>
+                <label>
+                    Nome da categoria:
+                    <input
+                        type="text"
+                    />
+
+            <button>
+                Cadastrar
+            </button>
+                </label>
+            </form>
 
             <Link to="/">
                 Ir para Home
